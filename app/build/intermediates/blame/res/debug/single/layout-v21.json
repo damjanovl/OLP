@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4887d01470d2dd0f22a16556500f7673/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4887d01470d2dd0f22a16556500f7673/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4887d01470d2dd0f22a16556500f7673/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/layout-v21/bb_bottom_bar_item_container.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/bd1922d74b9b7586549aa973233cc630/res/layout-v21/bb_bottom_bar_item_container.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4887d01470d2dd0f22a16556500f7673/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

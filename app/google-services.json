@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "287895309493",
+    "firebase_url": "https://ontariolegalpool.firebaseio.com",
+    "project_id": "ontariolegalpool",
+    "storage_bucket": "ontariolegalpool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287895309493:android:b04023fae58f7204",
+        "android_client_info": {
+          "package_name": "ontariolegalpool.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287895309493-of2g0s2jm9b9jlq4gtbk31g3hjp4gfru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDbqtBGD8qpsYyxfBNn0ypDhJZqGpa4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287895309493:android:88843c571914fd7f",
+        "android_client_info": {
+          "package_name": "com.ontariolegalpool.olp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287895309493-9i15fapsbsi49c1ba643l1uilqdsj6ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ontariolegalpool.olp",
+            "certificate_hash": "d20de55d05fd955b2a6159c32b2dfcfb133cded6"
+          }
+        },
+        {
+          "client_id": "287895309493-of2g0s2jm9b9jlq4gtbk31g3hjp4gfru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDbqtBGD8qpsYyxfBNn0ypDhJZqGpa4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287895309493-of2g0s2jm9b9jlq4gtbk31g3hjp4gfru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

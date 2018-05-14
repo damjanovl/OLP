@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/bb_bottom_bar_top_shadow.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/407bdce7e5421522eed787d4c6495904/res/drawable/bb_bottom_bar_top_shadow.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/design_password_eye.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/notification_bg.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b499add21cfd63df7b4aaaf78c9bf33/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_vector_test.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/design_fab_background.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b499add21cfd63df7b4aaaf78c9bf33/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/95744aab597154a9185d0f4bb6f1de98/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/notification_icon_background.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b499add21cfd63df7b4aaaf78c9bf33/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/tooltip_frame_light.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/notification_bg_low.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b499add21cfd63df7b4aaaf78c9bf33/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/com_facebook_button_background.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable/abc_ic_voice_search_api_material.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b499add21cfd63df7b4aaaf78c9bf33/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

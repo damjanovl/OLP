@@ -1,0 +1,4 @@
+#Thu Dec 21 13:41:48 EST 2017
+base.0=/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/transforms/dexMerger/debug/44
+path.0=classes.dex
+renamed.0=classes.dex

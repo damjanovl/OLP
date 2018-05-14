@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_search_view.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/760fd820ea4eb12662b0d3e41c82ba87/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b499add21cfd63df7b4aaaf78c9bf33/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/tooltip.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_media_action.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/760fd820ea4eb12662b0d3e41c82ba87/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/bb_bottom_bar_item_shifting.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/407bdce7e5421522eed787d4c6495904/res/layout/bb_bottom_bar_item_shifting.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/760fd820ea4eb12662b0d3e41c82ba87/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b499add21cfd63df7b4aaaf78c9bf33/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b499add21cfd63df7b4aaaf78c9bf33/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/760fd820ea4eb12662b0d3e41c82ba87/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/760fd820ea4eb12662b0d3e41c82ba87/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/bb_bottom_bar_item_container.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/407bdce7e5421522eed787d4c6495904/res/layout/bb_bottom_bar_item_container.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/760fd820ea4eb12662b0d3e41c82ba87/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/760fd820ea4eb12662b0d3e41c82ba87/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/bb_bottom_bar_item_fixed.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/407bdce7e5421522eed787d4c6495904/res/layout/bb_bottom_bar_item_fixed.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/bb_bottom_bar_item_titleless.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/407bdce7e5421522eed787d4c6495904/res/layout/bb_bottom_bar_item_titleless.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_action.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b499add21cfd63df7b4aaaf78c9bf33/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/760fd820ea4eb12662b0d3e41c82ba87/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/bb_bottom_bar_item_container_tablet.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/407bdce7e5421522eed787d4c6495904/res/layout/bb_bottom_bar_item_container_tablet.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_menu.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_item.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_time.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b499add21cfd63df7b4aaaf78c9bf33/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4b499add21cfd63df7b4aaaf78c9bf33/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/bb_bottom_bar_item_fixed_tablet.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/bottom-bar-2.3.1.aar/407bdce7e5421522eed787d4c6495904/res/layout/bb_bottom_bar_item_fixed_tablet.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/331259fa6f31428dd4fd2347eadd2d5c/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.6.0.aar/c176f1801d5fc893d7877b52e3f4bb8b/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/6b660a908545fed9ad2961142fe5805d/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media.xml",
+        "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/760fd820ea4eb12662b0d3e41c82ba87/res/layout/notification_template_big_media.xml"
+    }
+]

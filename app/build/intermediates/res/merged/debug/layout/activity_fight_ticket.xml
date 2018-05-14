@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingTop="5dp"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:fitsSystemWindows="true"
+        tools:context=".MainActivity">
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/newtinger"
+            />
+
+        <ImageButton
+            android:id="@+id/btn_fight_ticket"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:scaleType="fitCenter"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/gavel"
+            android:background="@color/white"
+            />
+
+        <TextView
+            android:id="@+id/txt_fight_ticket"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:text="Fight Ticket"
+            android:textSize="35dp"
+            android:textAlignment="center"
+            android:paddingTop="5dp"
+            android:textColor="@color/jet"
+            android:fontFamily="@font/copperplategothicbold"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <ImageButton
+            android:id="@+id/btn_pay_ticket"
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:scaleType="fitCenter"
+            android:layout_marginTop="85dp"
+            android:src="@drawable/card"
+            android:adjustViewBounds="true"
+            android:background="@color/white"
+            />
+
+        <TextView
+            android:id="@+id/txt_pay_ticket"
+            android:layout_width="220dp"
+            android:layout_height="50dp"
+            android:text="Pay Ticket"
+            android:textSize="35dp"
+            android:textAlignment="center"
+            android:fontFamily="@font/copperplategothicbold"
+            android:textColor="@color/jet"
+            android:layout_gravity="center_horizontal"
+            />
+
+    </LinearLayout>
+</LinearLayout>

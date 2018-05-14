@@ -1,0 +1,61 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ontariolegalpool.olp.PayFragment">
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:text="WHAT IS THE AMOUNT\n ON THE TICKET?"
+        android:textSize="25sp"
+        android:layout_marginTop="60dp"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:fontFamily="@font/copperplategothicbold"
+        android:textColor="@color/jet"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <EditText
+        android:id="@+id/payment"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="220dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:hint="0.00 "
+        android:paddingLeft="10dp"
+        android:inputType="numberDecimal"
+        android:textColor="@color/black"
+        android:textColorHint="@color/jumbo"
+        android:ellipsize="start"
+        android:textSize="50sp"
+        android:background="@drawable/edittextbackground"/>
+
+    <Button
+        android:id="@+id/btn_pay"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@android:color/transparent"
+        android:text="PAY"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:fontFamily="@font/copperplategothicbold"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="90dp"
+        />
+
+    <View
+        android:id="@+id/myRectangleView"
+        android:layout_width="fill_parent"
+        android:layout_height="110dp"
+        android:layout_marginBottom="75dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/rectangleother"
+        />
+
+</FrameLayout>

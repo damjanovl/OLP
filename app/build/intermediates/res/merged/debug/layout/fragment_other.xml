@@ -1,0 +1,84 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ontariolegalpool.olp.OtherFragment">
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:text="BRIEFLY DESCRIBE\n YOUR MATTER"
+        android:textSize="25sp"
+        android:layout_marginTop="15dp"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:fontFamily="@font/copperplategothicbold"
+        android:textColor="@color/jet"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <EditText
+        android:layout_width="380dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="150dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="top"
+        android:hint="Enter Description . . . "
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/jumbo"
+        android:ellipsize="start"
+        android:textSize="20sp"
+        android:background="@drawable/edittextbackground"/>
+
+    <ImageButton
+        android:id="@+id/btn_other"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:src="@drawable/camera_icon"
+        android:background="@android:color/transparent"
+        />
+
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:text="add attachments"
+        android:textSize="25sp"
+        android:layout_marginBottom="220dp"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:fontFamily="@font/copperplategothicbold"
+        android:textColor="@color/jet"
+        android:layout_gravity="bottom"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@android:color/transparent"
+        android:text="SUBMIT"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:fontFamily="@font/copperplategothicbold"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="90dp"
+        />
+
+    <View
+        android:id="@+id/myRectangleView"
+        android:layout_width="fill_parent"
+        android:layout_height="110dp"
+        android:layout_marginBottom="75dp"
+        android:layout_gravity="bottom"
+        android:background="@drawable/rectangleother"
+        />
+
+</FrameLayout>

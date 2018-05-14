@@ -1,0 +1,117 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ontariolegalpool.olp.ProfileFragment">
+
+    <View
+        android:id="@+id/myRectangleView"
+        android:layout_width="fill_parent"
+        android:layout_height="110dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/rectangle"
+        />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/profilePic"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        />
+
+    <TextView
+        android:id="@+id/firstName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:layout_marginTop="23dp"
+        android:layout_marginLeft="10dp"
+        android:fontFamily="@font/copperplategothicbold"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/lastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="10dp"
+        android:fontFamily="@font/copperplategothicbold"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/btnPayment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="profile"
+        android:background="@android:color/transparent"
+        android:textColor="@color/jumbo"
+        android:textSize="40sp"
+        android:layout_marginTop="150dp"
+        android:fontFamily="@font/copperplategothicbold"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/btnMyTickets"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="My Tickets"
+        android:background="@android:color/transparent"
+        android:textColor="@color/jumbo"
+        android:textSize="40sp"
+        android:layout_marginTop="230dp"
+        android:fontFamily="@font/copperplategothicbold"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/btnHelp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Help"
+        android:background="@android:color/transparent"
+        android:textColor="@color/jumbo"
+        android:textSize="40sp"
+        android:layout_marginTop="310dp"
+        android:fontFamily="@font/copperplategothicbold"
+        android:layout_gravity="center_horizontal"/>
+    <Button
+        android:id="@+id/btnSettings"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:background="@android:color/transparent"
+        android:textColor="@color/jumbo"
+        android:textSize="40sp"
+        android:layout_marginTop="390dp"
+        android:fontFamily="@font/copperplategothicbold"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/btnShare"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Share OLP"
+        android:background="@android:color/transparent"
+        android:textColor="@color/primary"
+        android:textSize="40sp"
+        android:layout_marginTop="470dp"
+        android:fontFamily="@font/copperplategothicbold"
+        android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/btnLegal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Legal"
+        android:background="@android:color/transparent"
+        android:textColor="@color/jumbo"
+        android:textSize="40sp"
+        android:layout_marginTop="550dp"
+        android:fontFamily="@font/copperplategothicbold"
+        android:layout_gravity="center_horizontal"/>
+
+</FrameLayout>

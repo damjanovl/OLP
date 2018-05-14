@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c6900acbc7dc19d2465d3b0714eddb/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c6900acbc7dc19d2465d3b0714eddb/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c6900acbc7dc19d2465d3b0714eddb/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/push_left_in.xml",
+        "source": "/home/luka/AndroidStudioProjects/OLP/app/src/main/res/anim/push_left_in.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6c6900acbc7dc19d2465d3b0714eddb/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/push_left_out.xml",
+        "source": "/home/luka/AndroidStudioProjects/OLP/app/src/main/res/anim/push_left_out.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/luka/AndroidStudioProjects/OLP/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/adbb39ace186976a29d90f6b6cf7c0e1/res/anim/abc_popup_exit.xml"
+    }
+]

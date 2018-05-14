@@ -1,0 +1,104 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.ontariolegalpool.olp.HomeFragment">
+
+    <LinearLayout
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="10dp"
+        android:layout_gravity="center"
+        android:fitsSystemWindows="true"
+        tools:context=".MainActivity">
+
+        <!--<ImageView-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="80dp"-->
+            <!--android:layout_marginBottom="10dp"-->
+            <!--android:paddingRight="20dp"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--android:src="@drawable/newtinger"-->
+            <!--/>-->
+
+        <ImageButton
+            android:id="@+id/btn_traffic_ticket"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/car"
+            android:layout_gravity="center"
+            android:scaleType="fitCenter"
+            android:background="@color/white"
+            />
+
+        <TextView
+            android:id="@+id/txt_traffic_ticket"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:text="traffic ticket"
+            android:textSize="30dp"
+            android:textAlignment="center"
+            android:textColor="@color/jet"
+            android:paddingTop="5dp"
+            android:fontFamily="@font/copperplategothicbold"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <ImageButton
+            android:id="@+id/btn_parking_ticket"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="60dp"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center"
+            android:src="@drawable/document"
+            android:background="@android:color/transparent"
+            />
+
+        <TextView
+            android:id="@+id/txt_parking_ticket"
+            android:layout_width="260dp"
+            android:layout_height="50dp"
+            android:text="parking ticket"
+            android:textSize="30dp"
+            android:background="@android:color/transparent"
+            android:textAlignment="center"
+            android:paddingTop="5dp"
+            android:fontFamily="@font/copperplategothicbold"
+            android:textColor="@color/jet"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <ImageButton
+            android:id="@+id/btn_other"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_marginTop="60dp"
+            android:layout_gravity="center"
+            android:paddingLeft="30dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/pencil"
+            android:background="@android:color/transparent"
+            />
+
+        <TextView
+            android:id="@+id/txt_other"
+            android:layout_width="110dp"
+            android:layout_height="50dp"
+            android:text="other"
+            android:textSize="30dp"
+            android:paddingTop="5dp"
+            android:background="@android:color/transparent"
+            android:textAlignment="center"
+            android:fontFamily="@font/copperplategothicbold"
+            android:textColor="@color/jet"
+            android:layout_gravity="center_horizontal"
+            />
+
+    </LinearLayout>
+
+
+</FrameLayout>
